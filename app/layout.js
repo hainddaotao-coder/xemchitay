@@ -1,3 +1,5 @@
+import "./globals.css";
+
 export const metadata = {
   title: "Xem chỉ tay – Thủ tướng cổ học | Tử Vi Chi Đạo",
   description: "Landing page dịch vụ xem chỉ tay, tích hợp Google Form đăng ký trực tiếp."

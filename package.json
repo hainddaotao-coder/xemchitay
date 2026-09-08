@@ -2,6 +2,7 @@
   "name": "landing-page-xem-chi-tay-tu-vi-chi-dao",
   "version": "1.0.0",
   "private": true,
+  "engines": {"node": ">=20.9.0"},
   "scripts": {"dev":"next dev","build":"next build","start":"next start"},
-  "dependencies": {"next":"15.5.2","react":"19.1.0","react-dom":"19.1.0"}
+  "dependencies": {"next":"15.5.24","react":"19.1.7","react-dom":"19.1.7"}
 }
